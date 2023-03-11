@@ -13,5 +13,5 @@ Get data, clean data, plot data.
 The image WordCloud.png shows the most common words used by the
 users.
 
-Of course the data I was able to get are limited by the Twitter policy.
-
+Of course the data I was able to get are limited by the Twitter policy,
+but this shows you an easy way to know what people are thinking about you.
