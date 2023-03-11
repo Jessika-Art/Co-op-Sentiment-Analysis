@@ -10,7 +10,8 @@ By using the Twitter API I could take, clean and analyse the comments of the las
 when interacting with this company.
 
 Get data, clean data, plot data.
-The image in
+The image WordCloud.png shows the most common words used by the
+users.
 
-Of course the data I was able to get are limited by the Twitter policy,
-however there's a upgrade 
+Of course the data I was able to get are limited by the Twitter policy.
+
