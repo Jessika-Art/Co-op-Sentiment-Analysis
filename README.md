@@ -1,6 +1,6 @@
 # Co-op-Sentiment-Analysis
 
-Have you ever wonder what the people think about a company,
+Have you ever wonder what the people thinking about a company,
 a person, an idea, a group of people or an organisation?
 
 in this simple project I took the people's comments of a given company,
